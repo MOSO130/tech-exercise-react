@@ -1,0 +1,6 @@
+User: Do the assignment please.
+
+ChatGPT: I created a simple React app using Vite. The app proves the framework is installed correctly because it runs a webpage through React and displays hard-coded course data. I also created a README with run instructions and an AI usage statement.
+
+Summary of how AI was used:
+I used ChatGPT to generate starter code, explain the project setup, and create a simple React page with hard-coded data. The code was reviewed and can be tested locally with npm install and npm run dev.
